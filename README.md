@@ -1,5 +1,12 @@
 ### Hi, I'm Kaival! 👋
 
+[![swift-version](https://img.shields.io/badge/swift-5.1-brightgreen.svg)](https://github.com/apple/swift)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
 A little about me:
 
 - 👋 I’m currently working on mobile and web applications
