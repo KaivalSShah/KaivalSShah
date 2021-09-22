@@ -8,5 +8,5 @@ A little about me:
 - ⚡ Find me on Twitter: https://twitter.com/heykaival
 
 ### Looking to Collab!
-### Create
-### Start
+Reach out to me on Twitter if you want to collab on a project!
+Twitter: https://twitter.com/heykaival
