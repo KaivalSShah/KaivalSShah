@@ -14,4 +14,7 @@ Reach out to me on Twitter if you want to collab on a project!
 ![Kaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaivalSShah&count_private=true&show_icons=true&theme=radical)
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaivalSShah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm mainly working with:
+- Swfit
+- Java
+- Python
