@@ -7,6 +7,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/KaivalSShah/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=KaivalSShah0729&color=DE002D">
+    </a>
+</div>
+
 A little about me:
 
 - 👋 I’m currently working on mobile and web applications
