@@ -15,7 +15,7 @@
 
 <!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaivalshah&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@kaivalshah)
  -->
-### My Stats (Getting Better — 2021 Goal)
+### My Stats
 ![Kaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaivalSShah&count_private=true&show_icons=true&theme=radical)
 
 ### Languages
