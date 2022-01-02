@@ -16,8 +16,6 @@
     </a>
 </div>
 
-<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaivalshah&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@kaivalshah)
- -->
 ### My Stats
 ![Kaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaivalSShah&count_private=true&show_icons=true&theme=radical)
 
@@ -26,3 +24,4 @@ I'm mainly working with:
 - Swfit
 - Java
 - Python
+- JavaScript
