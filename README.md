@@ -8,20 +8,3 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-<div align="left" style="margin: 40px 0">
-    <a href="https://github.com/KaivalSShah/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=KaivalSShah0729&color=DE002D">
-    </a>
-</div>
-
-### My Stats
-![Kaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaivalSShah&count_private=true&show_icons=true&theme=radical)
-
-### Languages
-I'm mainly working with:
-- Swfit
-- Java
-- Python
-- JavaScript
