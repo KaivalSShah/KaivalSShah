@@ -1,5 +1,3 @@
-### Hi, I'm Kaival! 👋
-
 [![swift-version](https://img.shields.io/badge/swift-5.1-brightgreen.svg)](https://github.com/apple/swift)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
