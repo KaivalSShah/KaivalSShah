@@ -10,4 +10,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kaivalshah&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@kaivalshah)
-[![total](https://wakatime.com/badge/user/kaivalshah.svg)](https://wakatime.com/@kaivalshah)
+[![wakatime](https://wakatime.com/badge/user/kaivalshah.svg)](https://wakatime.com/@kaivalshah)
